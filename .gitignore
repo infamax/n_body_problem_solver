@@ -1,0 +1,8 @@
+venv
+venv_win
+*.so
+.ipynb_checkpoints
+*pb2.py
+*pb2_grpc.py
+*pb2.pyi
+__pycache__
